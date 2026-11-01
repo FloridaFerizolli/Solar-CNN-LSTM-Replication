@@ -39,7 +39,7 @@ The test RMSE and training performance plots will be displayed at the end of the
 
 ## Ethical and Societal Context
 
-This project was developed using free, open-source tools with the intention of making deep learning for energy forecasting more accessible. The NumPy-based pipeline ensures that the approach can be replicated by users with limited computing resources. We also highlight the need for diverse, region-specific datasets and model transparency, particularly when deploying forecasting tools in energy-insecure settings.
+This project was developed using free tools with the intention of making deep learning for energy forecasting more accessible. The NumPy-based pipeline ensures that the approach can be replicated by users with limited computing resources. We also highlight the need for diverse, region-specific datasets and model transparency, particularly when deploying forecasting tools in energy-insecure settings.
 
 ## Reference
 
@@ -49,6 +49,6 @@ Qing, X. and Niu, Y., 2018. *Hourly day-ahead solar irradiance prediction using 
 
 This project was submitted as part of the *AI for Global Challenges* module.
 
+- Florida Ferizolli
 - Esther Daramola
 - Aimee Twum-Danso
-- Florida Ferizolli
